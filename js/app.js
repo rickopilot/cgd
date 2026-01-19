@@ -52375,7 +52375,7 @@ ${UC(e6)}`);
                         intrinsicWidth: 76,
                         layoutDependency: C10,
                         layoutId: "IZvGh6_Pm",
-                        svg: `<svg width="77" height="18" viewBox="-1 -1 120 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        svg: `<svg width="77" height="18" viewBox="-1 -1 121 18" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
                 <!-- Mask: white shows, black hides (used to cut a golden-spiral vein out of the leaf) -->
                 <mask id="leafMask" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
